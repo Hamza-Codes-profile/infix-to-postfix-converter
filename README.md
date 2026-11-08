@@ -17,7 +17,7 @@ Postfix: AB+CD-*
 
 - Stack operations using the C++ STL `stack`.
 - Operator precedence.
-- Handling parentheses and nested expressions.
+- Handling parentheses.
 - Infix to postfix conversion.
 - String manipulation in C++.
 
@@ -36,8 +36,6 @@ Tested using a collection of 20 infix expressions covering:
 
 - Basic arithmetic expressions.
 - Mixed operator precedence.
-- Nested parentheses.
-- Left associativity.
 - Combinations of multiple operators.
 
 ## Technologies
