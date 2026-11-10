@@ -32,7 +32,7 @@ Postfix: AB+CD-*
 
 ## Testing
 
-Tested using a collection of 20 infix expressions covering:
+Tested using a collection of 10 infix expressions covering:
 
 - Basic arithmetic expressions.
 - Mixed operator precedence.
